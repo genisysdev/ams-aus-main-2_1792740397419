@@ -1,0 +1,59 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder containing temporary project files
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore Rider project files
+.idea/
+*.sln.iml
+
+# Ignore Web.config transforms
+web.config.transform
+
+# Ignore Recycle Bin folder
+$RECYCLE.BIN/
+
+# Ignore Windows image file caches
+Thumbs.db
+
+# Ignore folder config file
+Desktop.ini
+
+# Ignore .NET Core and ASP.NET files
+project.lock.json
+project.fragment.lock.json
+
+# Ignore StyleCop files
+StyleCopCache.xml
+
+# Ignore TeamCity files
+_TeamCity/
+
+# Ignore CodeRush files
+.CodeRush/
+
+# Ignore Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+_ReSharper.Caches/
+resharper-[^.]+.json
+
+# Ignore MSTest test results
+TestResult*.xml
+TestResults/
+
+# Ignore files in CMS\obj\Debug
+CMS/obj/Debug/*
+
+# Ignore files in DataAccessLayer\obj\Debug
+DataAccessLayer/obj/Debug/*
